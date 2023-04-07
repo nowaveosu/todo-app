@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://nowaveosu.github.io/todo-app",
+  "homepage": "http://nowaveosu.github.io/todo-app/",
   "eslintConfig": {
     "extends": [
       "react-app",
