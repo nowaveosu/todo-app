@@ -114,7 +114,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{ marginTop: '16px' }}>
       <TodoItemInputField onSubmit={onSubmit} />
       <TodoItemList
         todoItemList={todoItemList}
